@@ -34,5 +34,5 @@ The following is the output that was produced using 1,000,000,000 rays and a win
 <br>
 
 <p align="center">
-    <img src="./Milestone-1/out/sphere-report.png" width="650" height="620" />
+    <img src="./out/sphere-report.png" width="650" height="620" />
 </p>
